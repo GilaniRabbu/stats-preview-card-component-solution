@@ -32,6 +32,7 @@ body {
     background-color: var(--bg-primary);
     font-family: var(--ff-base);
     font-weight: var(--fw-400);
+    margin: 0.5rem;
     display: flex;
     justify-content: center;
     align-items: center;
